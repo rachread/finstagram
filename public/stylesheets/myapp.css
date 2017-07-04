@@ -1,0 +1,24 @@
+header {
+    background-color: #936d61;
+    color: #fefaf9;
+    font-family: 'Pacifico', cursive;
+}
+body {
+    background-color: #936d61;
+}
+main {
+    background-color: white;
+    padding: 16px;
+    font-family: Bree Serif;
+}
+.post {
+    margin-bottom: 48px;
+    border-radius: 30%;
+}
+hr {
+    border: none;
+    height: 20px;
+    width: 700px;
+    color: #936d613; 
+    background-color: #936d61;
+}
